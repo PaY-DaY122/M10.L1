@@ -5,8 +5,6 @@ Un bot de Discord para presentar ideas relacionadas con cómo inhibir o reducir 
 
 # Instalación de bibliotecas para el funcionamiento del proyecto
 
-## Dependencias
-
 Para ejecutar este proyecto es necesario instalar las siguientes bibliotecas de Python:
 
 ```
