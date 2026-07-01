@@ -11,7 +11,7 @@ Para ejecutar este proyecto es necesario instalar las siguientes bibliotecas de 
 discord.py
 python-dotenv
 requests
-gTTS
+googletrans
 pyttsx3
 numpy
 Pillow
